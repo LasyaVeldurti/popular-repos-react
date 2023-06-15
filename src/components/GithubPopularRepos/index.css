@@ -1,0 +1,27 @@
+/* Write your CSS here */
+.bg-container {
+  padding: 30px;
+  height: 100vh;
+  overflow-y: auto;
+}
+.main-page-title {
+  text-align: center;
+  font-family: lobster;
+}
+.ul-container {
+  list-style-type: none;
+  display: flex;
+  justify-content: center;
+  font-family: roboto;
+  flex-wrap: wrap;
+}
+.failure-view {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.failure-page-title {
+  color: #0f172a;
+  font-family: lobster;
+}

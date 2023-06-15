@@ -1,0 +1,32 @@
+/* Write your CSS here */
+.li-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 12px;
+  background-color: #f8f8ff;
+  margin: 12px;
+  border-radius: 20px;
+  width: 300px;
+}
+.name {
+  color: #e73959;
+}
+.text {
+  color: #1e293b;
+  font-size: 20px;
+  padding-left: 12px;
+}
+.repository-item-img {
+  width: 60px;
+  height: 40px;
+}
+.icon-container {
+  display: flex;
+  justify-content: space-between;
+}
+.icon-img {
+  width: 30px;
+  height: 30px;
+  margin-top: 16px;
+}
